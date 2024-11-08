@@ -59,5 +59,5 @@ E a categoria "${NOME_CATEGORIA}" deve ser exibida na página
 Quando pesquisar pelo produto "${PRODUTO}"
     Digitar o nome de produto "${PRODUTO}" no campo de pesquisa
     Clicar no botão de pesquisa
-E um produto da linha "${PRODUTO}" deve ser mostrado na página
+Então um produto da linha "${PRODUTO}" deve ser mostrado na página
     Verificar o resultado da pesquisa se está listando o produto "${PRODUTO}"
