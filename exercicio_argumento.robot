@@ -24,6 +24,4 @@ Uma subkeyword com retorno
     
 *** Test Cases ***
 Cenario 001: Validar EMAIL_ALEATORIO
-    Imprimir email EMAIL_ALEATORIO 
-    
-    
+    Imprimir email EMAIL_ALEATORIO    
